@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Desktop\\Web-Projects"
+		},
+		{
+			"path": "..\\..\\Van Profiles"
+		},
+		{
+			"path": "..\\..\\SolarWorld"
+		},
+		{
+			"path": "..\\..\\Desktop\\Web-Projects\\TODO APP"
+		},
+		{
+			"path": "..\\..\\Desktop\\Web-Projects\\W3 Todo list"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web-Projects"
+	}
+}
